@@ -142,3 +142,49 @@ Normalbestellung unter der Nummer 4500019795 angelegt
 Meldungsnr. 06017
 
 ```
+
+
+== Vierte Stunde 01.12.2021
+
+=== Slides
+
+image::images/image-2021-12-01-14-14-26-829.png[]
+
+*Charge*: Kann bis auf einzelne Stücke sein. Zb.: Eine Kiste mit spezieller Nummer.
+
+image::images/image-2021-12-01-14-24-41-477.png[]
+
+*Frei verwendbar*: Heißt, dass das Produkt schon im Lager ist.
+
+*Sperrbestand*: Ist im Lager aber man darf ihn noch nicht verwenden (Bananen).
+
+.Spickzettel
+image::images/image-2021-12-01-14-28-12-642.png[]
+
+.Kontrolle (so soll es aussehen)
+image::images/image-2021-12-01-14-38-06-925.png[]
+
+image::images/image-2021-12-01-14-55-05-609.png[]
+
+.Werk, Lagerort eingeben und dann oben Prüfen und Buchen
+image::images/image-2021-12-01-14-56-03-037.png[]
+
+.Menge asuwählen
+image::images/image-2021-12-01-15-07-29-389.png[]
+
+.Überprüfung
+image::images/image-2021-12-01-15-10-13-066.png[]
+
+``Reservierungsnummer: 75311``
+
+image::images/image-2021-12-01-15-39-38-359.png[]
+
+=== 4.1
+
+image::images/image-2021-12-01-15-44-19-516.png[]
+
+*Meldebestand* : größer als verfügbaren Bestand
+
+Meldestand bei mir: 4000
+
+image::images/image-2021-12-01-16-08-09-798.png[]

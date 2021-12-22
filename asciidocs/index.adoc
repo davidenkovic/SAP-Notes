@@ -158,6 +158,8 @@ image::images/image-2021-12-01-14-24-41-477.png[]
 
 *Sperrbestand*: Ist im Lager aber man darf ihn noch nicht verwenden (Bananen).
 
+=== Übung
+
 .Spickzettel
 image::images/image-2021-12-01-14-28-12-642.png[]
 
@@ -188,3 +190,81 @@ image::images/image-2021-12-01-15-44-19-516.png[]
 Meldestand bei mir: 4000
 
 image::images/image-2021-12-01-16-08-09-798.png[]
+
+
+== Fünfte Stunde 01.12.2021
+
+=== Slides
+
+
+==== Personalbeschaffung
+
+Personal (human capital management) ist ein eigener Anwendungsbereich im SAP.
+Der Registrierung stil weicht von der Logistik ab.
+
+image::images/Vakanz.jpg[]
+
+Eine vakante Planstelle ist eine Planstelle, die in einem bestimmten Zeitraum keinen Inhaber hat
+und ausdrücklich als vakant gekennzeichnet ist.
+
+*Fachtheoretischer Unterricht ohne Lehrer ist Vakant.*
+
+Planstelle: Bsp.: Lehrer position
+
+Wenn Lehrer kündigt oder so, dann ist es wieder Vakant.
+
+Also keine Planstelle *gleich* Vakant.
+
+image::images/Bild6.jpg[]
+
+Stammdaten -> Bleiben gleich
+
+*Transaktion Code*
+
+* ppome _Planstelle anlegen_
+* pb40 _Bewerber erfassen_
+* pepm _Bewerber vergleichen_
+
+und
+
+* pb60 _Bewerber ab- und zusagen_
+* pba7 _Bewerber in Personalstamm übernehmen_
+* pa30 _Mitarbeiter einem User zuordnen_
+
+=== Übung
+
+*5 Click Übung*
+
+
+.ppome
+image::images/image-2021-12-22-14-38-15-416.png[]
+
+
+1. ppome
+
+2. links -> BR AG->Europe->Deutschland->Infotechno->Leonding
+
+3. rechts ->Planstellen
+
+4. Weise zettel drücken oben rechts
+
+5. umfasst drücken -> eingaben eingeben
+
+6. Planstelle: *PrL14A13_21* (daneben auch) | Stelle: Entwickler Österreich
+
+7. Diskette drücken und Nummer aufschreiben rechte fenster oben
+
+*screens*
+
+image::images/image-2021-12-22-15-06-20-676.png[]
+
+image::images/image-2021-12-22-15-07-14-300.png[]
+
+
+image::images/image-2021-12-22-15-08-49-534.png[]
+
+image::images/image-2021-12-22-15-09-12-081.png[]
+
+
+
+

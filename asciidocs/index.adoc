@@ -273,17 +273,17 @@ image::images/image-2021-12-22-15-09-12-081.png[]
 .erszterfassung auswählen
 image::images/image-2022-01-19-14-05-25-391.png[]
 
-image::../images/image-2022-01-19-14-17-13-148.png[]
+image::images/image-2022-01-19-14-17-13-148.png[]
 
-image::../images/image-2022-01-19-14-17-46-417.png[]
+image::images/image-2022-01-19-14-17-46-417.png[]
 
-image::../images/image-2022-01-19-14-19-49-164.png[]
+image::images/image-2022-01-19-14-19-49-164.png[]
 
-image::../images/image-2022-01-19-14-20-08-447.png[]
+image::images/image-2022-01-19-14-20-08-447.png[]
 
-image::../images/image-2022-01-19-14-21-18-467.png[]
+image::images/image-2022-01-19-14-21-18-467.png[]
 
-image::../images/image-2022-01-19-14-21-37-124.png[]
+image::images/image-2022-01-19-14-21-37-124.png[]
 
 === Bewerber-Vorgänge durchführen (pb60)
 
@@ -295,29 +295,29 @@ image::../images/Eingangsbestätigung.PNG[]
 
 === Bewerber-Zusatzdaten erfassen (pb40)
 
-image::../images/image-2022-01-19-14-37-03-449.png[]
+image::images/image-2022-01-19-14-37-03-449.png[]
 
 
-image::../images/image-2022-01-19-14-38-45-412.png[]
+image::images/image-2022-01-19-14-38-45-412.png[]
 
 === Bewerber vergleichen (pepm)
 
-image::../images/image-2022-01-19-14-54-08-744.png[]
+image::images/image-2022-01-19-14-54-08-744.png[]
 
 === Absage Brief
 
-image::../images/Ablehnungsschreiben.PNG[]
+image::images/Ablehnungsschreiben.PNG[]
 
 === Annahme
 
-image::../images/Vertragsangebot.PNG[]
+image::images/Vertragsangebot.PNG[]
 
 
 === Löschen
 
-image::../images/image-2022-01-19-15-50-39-175.png[]
+image::images/image-2022-01-19-15-50-39-175.png[]
 
 === Finito
 
-image::../images/image-2022-01-19-15-59-30-221.png[]
+image::images/image-2022-01-19-15-59-30-221.png[]
 
